@@ -1,1 +1,2 @@
 Hello Line 1 in master branch
+Added this line in sub1 
